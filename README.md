@@ -1,0 +1,1 @@
+# lenovo_thinksmart_view
