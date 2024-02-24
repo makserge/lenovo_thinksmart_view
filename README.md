@@ -24,7 +24,7 @@ and extract it to and copy content of flash directory into edl/flash folder and 
 
 4. Start the flash tool
 
-./edl qfil bin/rawprogram.xml bin/patch0.xml flash/ --loader=bin/prog_emmc_firehose_8953_ddr.mbn
+./edl qfil bin/rawprogram.xml bin/patch0.xml flash/ --loader=flash/bin/prog_emmc_firehose_8953_ddr.mbn
 
 5. Remove the rubber plug on bottom of unit and connect via Usb-C.
 
